@@ -54,7 +54,7 @@
 <h2> Pinned Repositories </h2>
 
 <a href="https://github.com/hishamcse/Slader_VanishLimit_Download_Capture_Print">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hishamcse&repo=Slader_VanishLimit_Download_Capture_Print" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hishamcse&repo=Slader_VanishLimit_Download_Capture_Print" width="100%"/>
 </a>
 <a href="https://github.com/hishamcse/hishamcse.github.io">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=hishamcse&repo=hishamcse.github.io" />
