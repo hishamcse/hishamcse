@@ -38,8 +38,7 @@
 <a href = 'https://hishamcse.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> &nbsp;
 <a href = 'https://www.github.com/hishamcse'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp;
 <a href = 'https://www.linkedin.com/in/syed-jarullah-2a4a071a9'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
-<a href = 'https://www.facebook.com/syedjarullah.hisham/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a> &nbsp;
-<a href = 'https://www.youtube.com/channel/UC1egAzaaAaW4GqKuDrEjV6A'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a> &nbsp;
+<a href = 'https://www.facebook.com/syedjarullah.hisham/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook-alt.svg"/></a> &nbsp;
 <a href = 'https://www.youtube.com/channel/UC1egAzaaAaW4GqKuDrEjV6A'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a>
 
 
