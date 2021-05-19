@@ -36,8 +36,11 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://hishamcse.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> &nbsp;
+<a href = 'https://www.github.com/hishamcse'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp;
 <a href = 'https://www.linkedin.com/in/syed-jarullah-2a4a071a9'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
-<a href = 'https://www.github.com/hishamcse'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.facebook.com/syedjarullah.hisham/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a> &nbsp;
+<a href = 'https://www.youtube.com/channel/UC1egAzaaAaW4GqKuDrEjV6A'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a> &nbsp;
+<a href = 'https://www.youtube.com/channel/UC1egAzaaAaW4GqKuDrEjV6A'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a>
 
 
 
@@ -49,16 +52,4 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishamcse&langs_count=7&theme=react&exclude_repo=Data-Analysis_Visualization_Python,Discrete-Math-Specialization-Coursera-&hide=jupyter%20notebook" />
 </a>
-
-
-<h2> Pinned Repositories </h2>
-
-<a href="https://github.com/hishamcse/Slader_VanishLimit_Download_Capture_Print">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hishamcse&repo=Slader_VanishLimit_Download_Capture_Print&hide_rank=true" height="50%" />
-</a>
-<a href="https://github.com/hishamcse/hishamcse.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hishamcse&repo=hishamcse.github.io" height="50%" />
-</a>
-
-
 
