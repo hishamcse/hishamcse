@@ -47,6 +47,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hishamcse&count_private=true&show_icons=true&theme=react" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishamcse&langs_count=7&theme=react&exclude_repo=Data-Analysis_Visualization_Python,Discrete-Math-Specialization-Coursera-&hide=jupyter%20notebook" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishamcse&langs_count=7&theme=react&exclude_repo=Data-Analysis_Visualization_Python,Discrete-Math-Specialization-Coursera-&hide=jupyter%20notebook" />
 </a>
 
