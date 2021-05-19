@@ -57,7 +57,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hishamcse&repo=Slader_VanishLimit_Download_Capture_Print" />
 </a>
 <a href="https://github.com/hishamcse/hishamcse.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hishamcse&repo=hishamcse.github.io" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=hishamcse&repo=hishamcse.github.io" />
 </a>
 
 
