@@ -22,15 +22,10 @@
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=html&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=css&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=bootstrap&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-
- 
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=java&sort= > <img width="40" height="40" src ='https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png'> </a>
- 
-<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=python&sort= > <img width="40" height="40" src ='https://image.pngaaa.com/241/1971241-middle.png'> </a>
- 
- <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=python&sort= > <img width="40" height="40" src ='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png'> </a>
-
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=python&sort= > <img width="40" height="40" src 
+='https://image.pngaaa.com/241/1971241-middle.png'> </a> 
+<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=python&sort= > <img width="40" height="40" src ='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png'> </a>
  
 <br>
 
