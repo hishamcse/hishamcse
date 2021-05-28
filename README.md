@@ -46,19 +46,19 @@
 
 <div align="center">
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=hishamcse&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></p>
-<p align="right"> <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hishamcse&layout=compact&langs_count=8&theme=algolia &bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff&exclude_repo=Data-Analysis_Visualization_Python,Discrete-Math-Specialization-Coursera-&hide=jupyter%20notebook" /></p> </div>
+<p align="right"> <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hishamcse&layout=compact&langs_count=8&theme=algolia &bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff&exclude_repo=Data-Analysis_Visualization_Python,Discrete-Math-Specialization-Coursera-&hide=jupyter%20notebook&langs_count=7" /></p> </div>
  
-<div align="center">
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=hishamcse&theme=highcontrast&background=005AA7&ring=FC5C7D&dates=FFFFFFFF&currStreakLabel=FC5C7D&fire=D4431D&border=DD2727" alt="hishamcse" /></p>
-</div>
+<details> <summary align="center"> </samp></summary><b>Note:&nbsp;</b>My Programming languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
+---
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hishamcse"/>
   </a>
 </div>
-
+---
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
