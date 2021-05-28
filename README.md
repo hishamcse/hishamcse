@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Learner;Developer;from+Bangladesh)](https://git.io/typing-svg)
 
 
-<img width="45%" align="right" alt="Github" src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
 ## 🙋‍♂‍ About Me
 - 🔭 I’m currently studying Computer Science & Engineering at BUET
@@ -22,7 +22,7 @@
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=html&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=css&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=bootstrap&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=java&sort= > <img width="40" height="40" src ='https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png'> </a>
+<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=java&sort= > <img width="40" height="40" src ='https://www.javatpoint.com/javafx/images/javafx-tutorial.png'> </a>
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=python&sort= > <img width="40" height="40" src 
 ='https://image.pngaaa.com/241/1971241-middle.png'> </a> 
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=python&sort= > <img width="40" height="40" src ='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png'> </a>
