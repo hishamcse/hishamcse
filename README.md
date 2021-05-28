@@ -45,8 +45,8 @@
 <h2> 📊 My Github Stats<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <div align="center">
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=hishamcse&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></p>
-<p align="right"> <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hishamcse&layout=compact&langs_count=8&theme=algolia &bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff&exclude_repo=Data-Analysis_Visualization_Python,Discrete-Math-Specialization-Coursera-&hide=jupyter%20notebook&langs_count=7" /></p> </div>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api?username=hishamcse&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></a>
+<a><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hishamcse&layout=compact&langs_count=8&theme=algolia &bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff&exclude_repo=Data-Analysis_Visualization_Python,Discrete-Math-Specialization-Coursera-&hide=jupyter%20notebook&langs_count=7" /></a> </div>
  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=hishamcse&theme=highcontrast&background=005AA7&ring=FC5C7D&dates=FFFFFFFF&currStreakLabel=FC5C7D&fire=D4431D&border=DD2727" alt="hishamcse" /></p>
 <details> <summary align="center"> </samp></summary><b>Note:&nbsp;</b>My Programming languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
@@ -64,7 +64,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{hishamcse}/count.svg" /></p> 
 <br></div>
 
 
@@ -72,12 +72,4 @@
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
 <br>
-
-
-<div align="center">
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ayushparikh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayushparikh" /></a></p>
-</div>
-<br>
-<h3 align="right">👋 Have the Best Day you can 🌈</h3>
 
