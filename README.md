@@ -1,12 +1,11 @@
 <h1 align="center">Hello visitors, I'm Syed Jarullah Hisham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hishamcse.hishamcse)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Learner;Developer;from+Bangladesh)](https://git.io/typing-svg)
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
-## 🙋‍♂‍ About Me
+## 🙋‍♂‍ About Me<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently studying Computer Science & Engineering at BUET
 
 - 🌱 I’m currently exploring web development. Learning nodejs 
@@ -20,7 +19,7 @@
 
 ## 📊 My Github Stats
 <div align="center">
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ayushparikh-code&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=hishamcse&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></p>
 <p align="right"> <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayushparikh-code&layout=compact&langs_count=8&theme=algolia &bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></p>  </div>
  
 
