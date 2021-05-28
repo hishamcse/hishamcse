@@ -49,19 +49,17 @@
  
 
  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ayushparikh-code&theme=highcontrast&background=005AA7&ring=FC5C7D&dates=FFFFFFFF&currStreakLabel=FC5C7D&fire=D4431D&border=DD2727" alt="ayushparikh-code" /></p>
-<details> <summary align="center"> </samp></summary><b>Note:</b>My Programming languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=hishamcse&theme=highcontrast&background=005AA7&ring=FC5C7D&dates=FFFFFFFF&currStreakLabel=FC5C7D&fire=D4431D&border=DD2727" alt="hishamcse" /></p>
 
----
 
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayushparikh-code&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=hishamcse&column=7"/>
   </a>
 </div>
 
----
+
 <!---
 [![Ayush Parikh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayushparikh-code&theme=dracula&area=true)](https://github.com/Ayushparikh-code)
 <br>
