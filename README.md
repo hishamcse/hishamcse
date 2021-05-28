@@ -6,6 +6,8 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
 ## 🙋‍♂‍ About Me
+<br>
+
 - 🔭 I’m currently studying Computer Science & Engineering at BUET
 
 - 🌱 I’m currently exploring web development. Learning nodejs 
