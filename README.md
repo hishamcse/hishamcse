@@ -56,25 +56,9 @@
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hishamcse&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=hishamcse"/>
   </a>
 </div>
-
-
-<!---
-[![Ayush Parikh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayushparikh-code&theme=dracula&area=true)](https://github.com/Ayushparikh-code)
-<br>
-
-
-
-
-
-<br><details> <summary align="center"> </samp></summary>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
-</p></details>
--->
 
 
 <div align="center">
