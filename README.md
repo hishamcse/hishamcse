@@ -52,12 +52,14 @@
 <details> <summary align="center"> </samp></summary><b>Note:&nbsp;</b>My Programming languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
 ---
+
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hishamcse"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=hishamcse&column=7"/>
   </a>
 </div>
+
 ---
 
 <div align="center">
