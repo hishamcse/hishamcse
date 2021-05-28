@@ -17,7 +17,7 @@
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=java&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=javascript&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=c&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=cpp&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=cpp&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg'> </a>
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=python&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=html&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=css&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
