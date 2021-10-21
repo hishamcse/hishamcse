@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying Computer Science & Engineering at BUET
 
-- 🌱 I’m currently exploring web development. Learning nodejs 
+- 🌱 I’m currently exploring web development. Learning react 
 
 <br>
 
