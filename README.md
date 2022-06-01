@@ -1,9 +1,9 @@
-<h1 align="center">Hello visitors, I'm Syed Jarullah Hisham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hello visitors, I'm Syed Jarullah Hisham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Learner;Developer;from+Bangladesh)](https://git.io/typing-svg)
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+<img align="right" alt="Coding" width="100" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
 ## 🙋‍♂‍ About Me
 <br>
@@ -15,7 +15,7 @@
 <br>
 
 
-<h2> 🚀 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> 🚀 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 12px> </h2>
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=java&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a> &nbsp;
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=javascript&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a> &nbsp;
 <a href= https://github.com/?tab=repositories&q=&type=&language=typescript&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a> &nbsp;
