@@ -15,7 +15,7 @@
 <br>
 
 
-<h2> 🚀 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 12px> </h2>
+<h2> 🚀 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32px" height="32px"> </h2>
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=java&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a> &nbsp;
 <a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=javascript&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a> &nbsp;
 <a href= https://github.com/?tab=repositories&q=&type=&language=typescript&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a> &nbsp;
@@ -35,7 +35,7 @@
  
 <br>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="100px"> </h2>
 <p>
 <a href = 'https://hishamcse.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> &nbsp;
 <a href = 'https://www.github.com/hishamcse'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp;
@@ -46,7 +46,7 @@
 
 <br>
 
-<h2> 📊 My Github Stats<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> 📊 My Github Stats<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height='32px'> </h2>
 
 <div align="center">
 <a><img align="left" width="55%" height="55%" src="https://github-readme-stats.vercel.app/api?username=hishamcse&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></a>
