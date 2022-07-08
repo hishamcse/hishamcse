@@ -52,7 +52,7 @@
 <a><img align="left" width="55%" height="55%" src="https://github-readme-stats.vercel.app/api?username=hishamcse&count_private=true&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></a>
 <a><img align="center" width="42%" height="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hishamcse&layout=compact&langs_count=7&theme=algolia &bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff&exclude_repo=Data-Analysis_Visualization_Python,Discrete-Math-Specialization-Coursera-&hide=jupyter%20notebook&langs_count=7" /></a> </div>
  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=hishamcse&theme=highcontrast&background=005AA7&ring=FC5C7D&dates=FFFFFFFF&currStreakLabel=FC5C7D&fire=D4431D&border=DD2727" alt="hishamcse" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=hishamcse&theme=highcontrast&dates=FFFFFFFF&currStreakLabel=FC5C7D&fire=D4431D" alt="hishamcse" /></p>
 <details> <summary align="center"> </samp></summary><b>Note:&nbsp;</b>Adding those skills doesn't mean that I am pro of those. Still learning</details>
 
 ---
