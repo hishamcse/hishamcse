@@ -49,7 +49,7 @@
 <h2> 📊 My Github Stats<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height='32px'> </h2>
 
 <div align="center">
-<a><img align="left" width="55%" height="55%" src="https://github-readme-stats.vercel.app/api?username=hishamcse&count_private=true&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></a>
+<a><img align="left" width="55%" height="55%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hishamcse&count_private=true&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></a>
 <a><img align="center" width="42%" height="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hishamcse&layout=compact&langs_count=7&theme=algolia%20&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff&exclude_repo=Data-Analysis_Visualization_Python,Discrete-Math-Specialization-Coursera-&hide=jupyter%20notebook&langs_count=7" /></a> </div>
  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=hishamcse&theme=highcontrast&dates=FFFFFFFF&currStreakLabel=FC5C7D&fire=D4431D" alt="hishamcse" /></p>
