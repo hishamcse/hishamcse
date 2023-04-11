@@ -77,5 +77,5 @@
 </p>
 <br>
 
-<p align="right">🌈 Template From: https://github.com/Ayushparikh-code</p>
+<p align="right"> Template From: https://github.com/Ayushparikh-code</p>
 
