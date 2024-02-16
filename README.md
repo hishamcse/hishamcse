@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying Computer Science & Engineering at BUET
 
-- 🌱 I’m currently exploring web development. Learning react & nextjs
+- 🌱 I’m currently doing undergrad thesis research on automated vulnerability detection in 5G specification
 
 <br>
 
