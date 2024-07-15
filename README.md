@@ -8,9 +8,7 @@
 ## 🙋‍♂‍ About Me
 <br>
 
-- 🔭 I’m currently studying Computer Science & Engineering at BUET
-
-- 🌱 I’m currently doing undergrad thesis research on automated vulnerability detection in 5G specification
+- 🔭 I’m currently working as Software Development Engineer 1 at IQVIA
 
 <br>
 
