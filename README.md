@@ -9,41 +9,17 @@
 <br>
 
 - 🔭 I’m currently working as Software Development Engineer 1 at IQVIA
+- A Backend developer in Data Explorer team working on .NET, Agentic AI (Python) and AI Integration.
 
 <br>
 
+## 🧰 Tech Stack
 
-<h2> 🚀 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32px" height="32px"> </h2>
-<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=java&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a> &nbsp;
-<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=javascript&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a> &nbsp;
-<a href= https://github.com/?tab=repositories&q=&type=&language=typescript&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a> &nbsp;
-<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=c&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a> &nbsp;
-<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=cpp&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg'> </a> &nbsp;
-<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=python&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> &nbsp;
-<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=html&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a> &nbsp;
-<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=css&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> &nbsp;
-<a href= https://github.com/?tab=repositories&q=&type=&language=sass&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a> &nbsp;
-<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=bootstrap&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a> &nbsp;
-<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=java&sort= > <img width="40" height="40" src ='https://www.javatpoint.com/javafx/images/javafx-tutorial.png'> </a> &nbsp;
-<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=python&sort= > <img width="40" height="40" src 
-='https://image.pngaaa.com/241/1971241-middle.png'> </a> &nbsp;
-<a href= https://github.com/hishamcse?tab=repositories&q=&type=&language=python&sort= > <img width="40" height="40" src ='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png'> </a> &nbsp;
-<a href= https://github.com/?tab=repositories&q=&type=&language=reactjs&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a> &nbsp;
-<a href= https://github.com/?tab=repositories&q=&type=&language=nextjs&sort= > <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a> 
- 
-<br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,c,react,nextjs,nodejs,html,css,sass,bootstrap,mysql,git,github,docker&perline=8" />
+</p>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> </h2>
-<p>
-<a href = 'https://hishamcse.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> &nbsp;
-<a href = 'https://www.github.com/hishamcse'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp;
-<a href = 'https://www.linkedin.com/in/syed-jarullah-2a4a071a9'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
-<a href = 'https://www.kaggle.com/syedjarullahhisham'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg"/></a> &nbsp;
-<a href = 'https://www.facebook.com/syedjarullah.hisham/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a> &nbsp;
-<a href = 'https://www.youtube.com/channel/UC1egAzaaAaW4GqKuDrEjV6A'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a>
- </p>
-
-<br>
+---
 
 <h2> 📊 GitHub Analytics </h2>
 
@@ -81,10 +57,20 @@
 
 ---
 
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://hishamcse.github.io/"><img src="https://skillicons.dev/icons?i=webflow"/></a>
+<a href="https://github.com/hishamcse"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.linkedin.com/in/syed-jarullah-2a4a071a9"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hishamcse&label=Profile%20views&color=0e75b6&style=flat" />
 </div>
-
 
 <p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
