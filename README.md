@@ -45,36 +45,48 @@
 
 <br>
 
-<h2> 📊 My Github Stats<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height='32px'> </h2>
+<h2> 📊 GitHub Analytics </h2>
 
 <div align="center">
-<a><img align="left" width="55%" height="55%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hishamcse&count_private=true&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></a>
-<a><img align="center" width="42%" height="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hishamcse&layout=compact&langs_count=7&theme=algolia%20&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff&exclude_repo=Data-Analysis_Visualization_Python,Business_Analytics_Transaction_Clustering,Robo-Chess,Discrete-Math-Specialization-Coursera-" /></a> </div>
- 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=hishamcse&theme=highcontrast&dates=FFFFFFFF&currStreakLabel=FC5C7D&fire=D4431D" alt="hishamcse" /></p>
-<!-- <details> <summary align="center"> </samp></summary><b>Note:&nbsp;</b>Adding those skills doesn't mean that I am pro of those. Still learning</details> -->
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hishamcse&theme=tokyonight" />
+</p>
 
+<!-- Main Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hishamcse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<!-- Top Languages -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishamcse&layout=compact&theme=tokyonight&hide_border=true" /> -->
 <div align="center">
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hishamcse&column=7"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hishamcse&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hishamcse&theme=tokyonight" />
 </div>
 
+</div>
+
+<br>
+
+<!-- Streak Stats (UPDATED WORKING VERSION) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hishamcse&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+<!-- Activity Graph (NEW 🔥) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hishamcse&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{hishamcse}/count.svg" /></p> 
-<br></div>
+  <img src="https://komarev.com/ghpvc/?username=hishamcse&label=Profile%20views&color=0e75b6&style=flat" />
+</div>
 
 
 <p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
 <br>
-
-<p align="right"> Template From: https://github.com/Ayushparikh-code</p>
-
