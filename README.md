@@ -8,7 +8,7 @@
 ## 🙋‍♂‍ About Me
 <br>
 
-- 🔭 I’m currently working as Software Development Engineer 1 at IQVIA
+- 🔭 I’m currently working as Software Development Engineer 2 at IQVIA
 - A Backend developer in Data Explorer team working on .NET, Agentic AI (Python) and AI Integration.
 
 <br>
